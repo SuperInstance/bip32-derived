@@ -1,9 +1,11 @@
 [package]
 name = "bip32-derived"
 version = "0.1.0"
-description = "A Rust library for Bip32 Derived"
+description = "Bip32 Derived — Rust implementation with the SuperInstance polyformalism canary wired in."
 license = "MIT OR Apache-2.0"
-repository = "https://github.com/casey-digennaro/bip32-derived"
+repository = "https://github.com/SuperInstance/bip32-derived"
 edition = "2021"
+
+keywords = ["bip32-derived"]
 
 [dependencies]
